@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1032113468176",
+    "firebase_url": "https://subscription-app-ec83e.firebaseio.com",
+    "project_id": "subscription-app-ec83e",
+    "storage_bucket": "subscription-app-ec83e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032113468176:android:d65ea6d6028aee6f20ab95",
+        "android_client_info": {
+          "package_name": "com.example.subscription_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032113468176-aiuopv399rch9gh3kkcftfc2nprt75q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcFP7nedtucxR0BRIqb7uc6sHUVgQssdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032113468176-aiuopv399rch9gh3kkcftfc2nprt75q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
